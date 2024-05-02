@@ -74,10 +74,10 @@ MonoBehaviour:
   stunTimeMultiplier: 0
   doorSpeedMultiplier: 0
   stunGameDifficultyMultiplier: 0
-  canBeStunned: 0
+  canBeStunned: 1
   canDie: 0
   destroyOnDeath: 0
-  canSeeThroughFog: 0
+  canSeeThroughFog: 1
   timeToPlayAudio: 0
   loudnessMultiplier: 0
   overrideVentSFX: {fileID: 0}
