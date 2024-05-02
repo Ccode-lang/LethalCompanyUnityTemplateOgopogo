@@ -860,7 +860,7 @@ MonoBehaviour:
   creatureAnimator: {fileID: 0}
   creatureVoice: {fileID: 6801909827515816774}
   creatureSFX: {fileID: 8853349704023753443}
-  eye: {fileID: 0}
+  eye: {fileID: 8912094078616305167}
   dieSFX: {fileID: 0}
   enemyBehaviourStates:
   - name: Wandering

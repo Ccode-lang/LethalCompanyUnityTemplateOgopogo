@@ -40,7 +40,25 @@ MonoBehaviour:
   spawningDisabled: 0
   numberSpawnedFalloff:
     serializedVersion: 2
-    m_Curve: []
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
@@ -50,7 +68,7 @@ MonoBehaviour:
   PowerLevel: 0
   MaxCount: 1
   numberSpawned: 0
-  isOutsideEnemy: 0
+  isOutsideEnemy: 1
   isDaytimeEnemy: 1
   normalizedTimeInDayToLeave: 0
   stunTimeMultiplier: 0
