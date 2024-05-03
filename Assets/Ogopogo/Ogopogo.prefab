@@ -327,6 +327,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 371452157085641046}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7023370437345252798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7096249424096534104}
+  m_Layer: 19
+  m_Name: Eye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7096249424096534104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7023370437345252798}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 7.35, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5034535706053375295}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7079493242444473943
 GameObject:
   m_ObjectHideFlags: 0
@@ -616,9 +647,9 @@ GameObject:
   - component: {fileID: 6801909827515816774}
   - component: {fileID: 3619405261245910435}
   - component: {fileID: 7587219721594537447}
-  m_Layer: 0
+  m_Layer: 19
   m_Name: VoiceSfx
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -840,6 +871,7 @@ Transform:
   - {fileID: 3613593714156745953}
   - {fileID: 1974865592371405281}
   - {fileID: 7405434548259946064}
+  - {fileID: 7096249424096534104}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &-3073950680615732633
@@ -860,7 +892,7 @@ MonoBehaviour:
   creatureAnimator: {fileID: 0}
   creatureVoice: {fileID: 6801909827515816774}
   creatureSFX: {fileID: 8853349704023753443}
-  eye: {fileID: 8912094078616305167}
+  eye: {fileID: 7096249424096534104}
   dieSFX: {fileID: 0}
   enemyBehaviourStates:
   - name: Wandering
