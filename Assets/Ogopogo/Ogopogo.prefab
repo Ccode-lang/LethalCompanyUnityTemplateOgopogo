@@ -383,7 +383,7 @@ GameObject:
   - component: {fileID: 1757940643224980368}
   m_Layer: 19
   m_Name: ScanNode
-  m_TagString: Untagged
+  m_TagString: DoNotSet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

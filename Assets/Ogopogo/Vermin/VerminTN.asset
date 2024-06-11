@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
-  m_Name: OgopogoTN
+  m_Name: VerminTN
   m_EditorClassIdentifier: 
-  displayText: :3
+  displayText: Worm go suck.
   terminalEvent: 
-  clearPreviousText: 0
+  clearPreviousText: 1
   maxCharactersToType: 2000
   buyItemIndex: -1
   isConfirmationNode: 0
@@ -24,10 +24,10 @@ MonoBehaviour:
   shipUnlockableID: -1
   buyUnlockable: 0
   returnFromStorage: 0
-  itemCost: -1
-  creatureFileID: 2147483647
-  creatureName: Ogopogo
-  storyLogFileID: 0
+  itemCost: 0
+  creatureFileID: 563470
+  creatureName: Vermin
+  storyLogFileID: -1
   overrideOptions: 0
   acceptAnything: 0
   terminalOptions: []
