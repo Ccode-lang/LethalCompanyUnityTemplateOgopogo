@@ -48,7 +48,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 6920538450645672763, guid: 6dcf6fb8fe419b54cb7144ff36b36b50,
     type: 3}
   PowerLevel: 0
-  MaxCount: 20
+  MaxCount: 8
   numberSpawned: 0
   isOutsideEnemy: 1
   isDaytimeEnemy: 1
