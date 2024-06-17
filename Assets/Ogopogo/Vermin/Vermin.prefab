@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9009435753980359155}
   - component: {fileID: 7314759770342361634}
   - component: {fileID: 4775741398880852653}
-  m_Layer: 19
+  m_Layer: 22
   m_Name: ScanNode
   m_TagString: DoNotSet
   m_Icon: {fileID: 0}
@@ -253,7 +253,7 @@ MonoBehaviour:
   postStunInvincibilityTimer: 0
   stunnedByPlayer: {fileID: 0}
   debugEnemyAI: 0
-  isOutside: 1
+  isOutside: 0
   RaycastPos: {fileID: 1381477120992161089}
 --- !u!1 &7533859538300762798
 GameObject:
