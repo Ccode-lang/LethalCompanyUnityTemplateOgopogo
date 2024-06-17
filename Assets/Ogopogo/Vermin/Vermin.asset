@@ -50,7 +50,7 @@ MonoBehaviour:
   PowerLevel: 0
   MaxCount: 8
   numberSpawned: 0
-  isOutsideEnemy: 0
+  isOutsideEnemy: 1
   isDaytimeEnemy: 0
   normalizedTimeInDayToLeave: 1
   stunTimeMultiplier: 0
