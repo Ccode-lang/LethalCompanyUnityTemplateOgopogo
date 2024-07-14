@@ -32,7 +32,7 @@ MonoBehaviour:
   acceptAnything: 0
   terminalOptions: []
   playClip: {fileID: 0}
-  playSyncedClip: 0
+  playSyncedClip: 2
   displayTexture: {fileID: 0}
   displayVideo: {fileID: 0}
   loadImageSlowly: 0

@@ -256,6 +256,7 @@ MonoBehaviour:
   debugEnemyAI: 0
   isOutside: 0
   RaycastPos: {fileID: 1381477120992161089}
+  MapDot: {fileID: 6859679551781339224}
 --- !u!1 &7533859538300762798
 GameObject:
   m_ObjectHideFlags: 0
