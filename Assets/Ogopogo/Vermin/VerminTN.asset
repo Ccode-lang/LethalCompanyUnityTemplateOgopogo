@@ -12,7 +12,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
   m_Name: VerminTN
   m_EditorClassIdentifier: 
-  displayText: Worm go suck.
+  displayText: 'Vermin:
+
+    
+
+    Scientific name: Macrobdella-rostrata
+
+    
+
+    The
+    Ogopogo''s young.
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    0/10. worm yucky.
+    worm go suck.'
   terminalEvent: 
   clearPreviousText: 1
   maxCharactersToType: 2000
@@ -34,6 +56,6 @@ MonoBehaviour:
   playClip: {fileID: 0}
   playSyncedClip: 2
   displayTexture: {fileID: 0}
-  displayVideo: {fileID: 0}
+  displayVideo: {fileID: 32900000, guid: fd950e9e7b50bb64698d904830c3530a, type: 3}
   loadImageSlowly: 0
   persistentImage: 0
