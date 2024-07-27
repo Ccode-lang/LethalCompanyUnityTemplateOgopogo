@@ -75,7 +75,7 @@ MonoBehaviour:
   doorSpeedMultiplier: 0
   stunGameDifficultyMultiplier: 1
   canBeStunned: 1
-  canDie: 0
+  canDie: 1
   destroyOnDeath: 0
   canSeeThroughFog: 1
   timeToPlayAudio: 0

@@ -286,8 +286,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.4007881, y: 0.5602603, z: 0.7170607}
-  m_Center: {x: -0.024041511, y: 0.065421164, z: -0.14147192}
+  m_Size: {x: 0.4007881, y: 0.8841591, z: 1.5559661}
+  m_Center: {x: -0.024041513, y: 0.09856043, z: -0.56092525}
 --- !u!114 &5477613051722065244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1259,7 +1259,7 @@ MonoBehaviour:
   ventAnimationFinished: 0
   isEnemyDead: 0
   daytimeEnemyLeaving: 0
-  enemyHP: 0
+  enemyHP: 50
   openDoorSpeedMultiplier: 0
   useSecondaryAudiosOnAnimatedObjects: 0
   currentSearch:
@@ -1294,6 +1294,7 @@ MonoBehaviour:
   normalAudio: {fileID: 8223451200345459668}
   defaultEye: {fileID: 2546179433314017972}
   MapDot: {fileID: 5699438727442840034}
+  IK: {fileID: 263991875463676786}
 --- !u!114 &-7725460624739829244
 MonoBehaviour:
   m_ObjectHideFlags: 0
